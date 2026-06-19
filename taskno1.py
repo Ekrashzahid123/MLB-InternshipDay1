@@ -17,17 +17,17 @@ avarage=(marks1+marks2+marks3)/3
 print("The average marks of student is:",avarage)
 
 
-if avarage>90:
+if avarage>=90:
     print("Grade A")
 
 elif avarage>=80 and avarage<90:
     print("Grade B")
 
-elif avarage>70 and avarage<=80:
+elif avarage>=70 and avarage<80:
     print("Grade C")
 
-elif avarage>60 and avarage<70:
+elif avarage>=60 and avarage<70:
     print("Grade D")
 
-elif avarage>50 and avarage<=60:
+elif avarage<=50:
     print("Grade F")
