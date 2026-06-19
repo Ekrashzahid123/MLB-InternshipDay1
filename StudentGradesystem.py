@@ -29,7 +29,7 @@ elif avarage>=70 and avarage<80:
 elif avarage>=60 and avarage<70:
     print("Grade D")
 
-elif avarage<=50:
+elif avarage<50:
     print("Grade F")
 
 
