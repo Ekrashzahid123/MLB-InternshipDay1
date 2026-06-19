@@ -31,3 +31,12 @@ elif avarage>=60 and avarage<70:
 
 elif avarage<=50:
     print("Grade F")
+
+
+print("NAME:",name)
+print("CLASS:",class1)
+print("SUBJECTS:",subject1,subject2,subject3)
+print("MARKS:",marks1,marks2,marks3)
+print("AVERAGE:",avarage)
+
+
