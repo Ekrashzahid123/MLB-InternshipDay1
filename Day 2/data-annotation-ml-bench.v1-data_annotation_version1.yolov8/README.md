@@ -106,7 +106,7 @@ Labeled Dataset
 
 Types of fields identified
 Challenges faced
-#the problem i face i had to download pdf and extract the images from that which was rounf about 81 then applying annotation on it
+#the problem i face i had to download pdf and extract the images from that which was round about 81 then applying annotation on it
 Lessons learned
 the lesson i learned from this is how important annotation is ,how it contributes to real life problem solving in ML tarining that model don,t fail in real life after proper annotation
 Any confusing scenario
