@@ -1,4 +1,4 @@
-# Data Annotation ML Benchmark - Complete Workflow Documentation
+# Data Annotation ML Bench - Complete Workflow Documentation
 
 ## Table of Contents
 1. [Introduction to Data Annotation](#introduction-to-data-annotation)
